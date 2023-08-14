@@ -17,7 +17,7 @@
       $mail->Host = "smtp.gmail.com";
       $mail->Port = "465";
       $mail->Username = "icaroooard@gmail.com";
-      $mail->Password = "ooyzmbmuyupnlsgq";
+      $mail->Password = "";
       $mail->SMTPSecure = "ssl";
 
       // Remitente
